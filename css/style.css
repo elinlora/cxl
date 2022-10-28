@@ -17,6 +17,10 @@ a {
   text-decoration: none;
 }
 
+input:focus {
+  outline: none;
+}
+
 img, video {
   display: block;
   width: 100%;
